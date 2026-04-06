@@ -17,16 +17,6 @@ UE 관련 코드 작성 요청이 들어오면 Claude가 자동으로:
 claude plugins add --from https://github.com/JQ-WCoding/ue-docs-plugin
 ```
 
-### settings.json에 마켓플레이스로 추가
-```json
-{
-  "extraKnownMarketplaces": {
-    "ue-docs": {
-      "source": { "source": "github", "repo": "JQ-WCoding/ue-docs-plugin" }
-    }
-  }
-}
-```
 
 ## 사용법
 
