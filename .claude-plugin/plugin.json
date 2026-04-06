@@ -1,0 +1,10 @@
+{
+  "name": "ue-docs",
+  "description": "Unreal Engine 5.7 official documentation auto-reference plugin. Searches and reads UE docs before writing code, ensuring accuracy. Supports Korean (ko-kr) first with English (en-us) fallback.",
+  "version": "1.0.0",
+  "author": {
+    "name": "junq"
+  },
+  "license": "MIT",
+  "keywords": ["unreal-engine", "ue5", "documentation", "game-development", "korean"]
+}
